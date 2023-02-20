@@ -1,0 +1,6 @@
+﻿{
+  "Server": "localhost",
+  "User": "root",
+  "Database": "union_reporting",
+  "Port": "3306"
+}
